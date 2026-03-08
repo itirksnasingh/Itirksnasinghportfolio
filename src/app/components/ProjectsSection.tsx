@@ -8,7 +8,7 @@ import gif2 from "../../assets/22.gif";
 import gif3 from "../../assets/33.gif";
 
 /* You can replace these later if needed */
-import abstractImg from "../../assets/abstract.png";
+import abstractImg from "../../assets/abstractimg.png";
 import jellyfishImg from "../../assets/jellyfish.png";
 
 const PROJECTS = [
