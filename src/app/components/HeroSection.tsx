@@ -36,7 +36,7 @@ export function HeroSection() {
         style={{ y: flowerY }}
       >
         <img
-          src={heroFlowers}
+          src={heroFlowersImg}
           alt="Glowing botanical garden"
           className="w-full object-cover object-bottom"
           style={{ height: "45vh", maskImage: "linear-gradient(to top, black 40%, transparent 100%)" }}
