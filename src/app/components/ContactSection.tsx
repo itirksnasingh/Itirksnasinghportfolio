@@ -4,7 +4,7 @@ import { GlowFlower, GlowOrb } from "./GlowFlower";
 import { Mail, Github, Linkedin, ArrowUpRight } from "lucide-react";
 
 const LINKS = [
-  { icon: Mail, label: "sanskritisingh.dev@gmail.com", href: "mailto:sanskrutisinghmshs@gmail.com", color: "#ff6eb4" },
+  { icon: Mail, label: "itirksnasingh.mail@gmail.com", href: "mailto:sanskrutisinghmshs@gmail.com", color: "#ff6eb4" },
   { icon: Github, label: "github.com/itirksnasingh", href: "https://github.com/itirksnasingh", color: "#a78bfa" },
   { icon: Linkedin, label: "linkedin.com/in/itirksnasingh", href: "https://www.linkedin.com/in/itirksnasingh", color: "#38bdf8" },
 ];
