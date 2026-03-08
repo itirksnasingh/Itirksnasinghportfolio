@@ -1,7 +1,7 @@
 import { useRef } from "react";
 import { motion, useScroll, useTransform } from "motion/react";
 import { GlowFlower, GlowOrb } from "./GlowFlower";
-import heroFlowers from "figma:asset/193ff370d614f9be2c097029c8f80922e0cc8999.png";
+import heroFlowersImg from "../../assets/193ff370d614f9be2c097029c8f80922e0cc8999.png";
 
 export function HeroSection() {
   const ref = useRef<HTMLDivElement>(null);
