@@ -1,6 +1,6 @@
 # Portfolio
 
-![Portfolio Preview](./readme.md.jpg)
+![Portfolio Preview](./readme.jpg)
 
 This repository contains the code for my personal portfolio website.
 
