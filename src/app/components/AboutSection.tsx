@@ -1,7 +1,7 @@
 import { useRef } from "react";
 import { motion, useInView } from "motion/react";
 import { GlowFlower, GlowOrb } from "./GlowFlower";
-import gardenImg from "../../assets/ea56458b30e06180bab20ee581d4851a8663755e.png";
+import gardenImg from "../../assets/about.png";
 
 const TRAITS = [
   { label: "Curious", icon: "◎" },
